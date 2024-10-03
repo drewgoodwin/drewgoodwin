@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @drewgoodwin
-- 👀 I’m interested in C++, bikes, bodybuilding and climate change solutions
+- 👀 I’m interested in programming, bikes, tinkering with rc cars
 - 💞️ I’m looking to collaborate on anything I find interesting
 
 <!---
